@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on creating custom Clarity data marts for Qlik apps and other self-service reporting tools.
 - 📫 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: A long, LONG time ago, I ran the Athens Classic Marathon along the original historic course from Marathon to Athens.
+- ⚡ Fun fact: A long, LONG time ago, I ran the Athens Classic Marathon following the original historic course from Marathon to Athens.
 
 <!---
 sbuoncristiani/sbuoncristiani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
