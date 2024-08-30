@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarah.
 - 👀 I’m interested in expanding my data skill set into the data science field. 
-- 🌱 I’m currently finishing up the Associate Data Engineer track in DataCamp. I plan to follow that up with courses in the R programming language.
+- 🌱 I’m currently finishing up the Associate Data Engineer track in DataCamp. 
 - 💞️ I’m looking to collaborate on creating custom Clarity data marts for Qlik apps and other self-service reporting tools.
 - 📫 
 - 😄 Pronouns: she/her
